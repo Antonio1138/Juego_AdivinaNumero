@@ -1,8 +1,8 @@
 # Juego_AdivinaNumero
 Proyecto AdivinarNumero Android Studio
 
-<img src="https://github.com/Antonio1138/Conversor_Moneda/blob/master/app/src/main/res/drawable/currency.jpeg" alt="notes"
-  width="300" height="150"/>
+<img src="https://github.com/Antonio1138/Juego_AdivinaNumero/blob/master/app/src/main/res/drawable/Adivina-el-numero.jpg" alt="notes"
+  width="300" height="300"/>
 
 ## Descripción
 
